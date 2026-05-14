@@ -7,7 +7,7 @@
         <mxCell id="qwRT2n-HWW4_gq3sB1_n-33" edge="1" parent="1" source="qwRT2n-HWW4_gq3sB1_n-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="qwRT2n-HWW4_gq3sB1_n-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qwRT2n-HWW4_gq3sB1_n-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Arrival event&lt;/font&gt;" vertex="1">
+        <mxCell id="qwRT2n-HWW4_gq3sB1_n-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Arrival event&lt;/font&gt;" vertex="1">
           <mxGeometry height="50" width="70" x="37.5" y="10" as="geometry" />
         </mxCell>
         <mxCell id="qwRT2n-HWW4_gq3sB1_n-34" edge="1" parent="1" source="qwRT2n-HWW4_gq3sB1_n-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="qwRT2n-HWW4_gq3sB1_n-16">
@@ -22,7 +22,7 @@
         <mxCell id="qwRT2n-HWW4_gq3sB1_n-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Add job to Q1&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="67.5" x="38.75" y="140" as="geometry" />
         </mxCell>
-        <mxCell id="qwRT2n-HWW4_gq3sB1_n-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Schedule the next arrival event&lt;/font&gt;" vertex="1">
+        <mxCell id="qwRT2n-HWW4_gq3sB1_n-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Schedule the next arrival event&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="67.5" x="38.75" y="200" as="geometry" />
         </mxCell>
         <mxCell id="qwRT2n-HWW4_gq3sB1_n-46" edge="1" parent="1" source="qwRT2n-HWW4_gq3sB1_n-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="qwRT2n-HWW4_gq3sB1_n-23">
@@ -40,7 +40,7 @@
         <mxCell id="qwRT2n-HWW4_gq3sB1_n-42" edge="1" parent="1" source="qwRT2n-HWW4_gq3sB1_n-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="qwRT2n-HWW4_gq3sB1_n-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qwRT2n-HWW4_gq3sB1_n-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Set M1 busy&lt;/font&gt;" vertex="1">
+        <mxCell id="qwRT2n-HWW4_gq3sB1_n-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Set M1 busy&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="67.5" x="38.75" y="390" as="geometry" />
         </mxCell>
         <mxCell id="qwRT2n-HWW4_gq3sB1_n-43" edge="1" parent="1" source="qwRT2n-HWW4_gq3sB1_n-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="qwRT2n-HWW4_gq3sB1_n-22">
@@ -52,10 +52,10 @@
         <mxCell id="qwRT2n-HWW4_gq3sB1_n-44" edge="1" parent="1" source="qwRT2n-HWW4_gq3sB1_n-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="qwRT2n-HWW4_gq3sB1_n-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qwRT2n-HWW4_gq3sB1_n-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Schedule the departure event of job for M1&lt;/font&gt;" vertex="1">
+        <mxCell id="qwRT2n-HWW4_gq3sB1_n-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Schedule the departure event of job for M1&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="67.5" x="38.75" y="510" as="geometry" />
         </mxCell>
-        <mxCell id="qwRT2n-HWW4_gq3sB1_n-23" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Return&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;(to event handler in main program)&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="qwRT2n-HWW4_gq3sB1_n-23" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Return&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;(to event handler in main program)&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="82.5" x="31.25" y="570" as="geometry" />
         </mxCell>
         <mxCell id="qwRT2n-HWW4_gq3sB1_n-37" edge="1" parent="1" source="qwRT2n-HWW4_gq3sB1_n-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.476;entryY=-0.024;entryDx=0;entryDy=0;entryPerimeter=0;" target="qwRT2n-HWW4_gq3sB1_n-18">
@@ -73,7 +73,7 @@
         <mxCell id="qwRT2n-HWW4_gq3sB1_n-49" edge="1" parent="1" source="qwRT2n-HWW4_gq3sB1_n-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="qwRT2n-HWW4_gq3sB1_n-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qwRT2n-HWW4_gq3sB1_n-50" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Departure event&lt;/font&gt;" vertex="1">
+        <mxCell id="qwRT2n-HWW4_gq3sB1_n-50" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Departure event&lt;/font&gt;" vertex="1">
           <mxGeometry height="50" width="70" x="160" y="10" as="geometry" />
         </mxCell>
         <mxCell id="qwRT2n-HWW4_gq3sB1_n-51" edge="1" parent="1" source="qwRT2n-HWW4_gq3sB1_n-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="qwRT2n-HWW4_gq3sB1_n-53">
@@ -82,7 +82,7 @@
         <mxCell id="qwRT2n-HWW4_gq3sB1_n-52" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Compute waiting time and gather statistics&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="67.5" x="161.25" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="qwRT2n-HWW4_gq3sB1_n-53" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Set M&lt;sub&gt;i&lt;/sub&gt; free&lt;/span&gt;" vertex="1">
+        <mxCell id="qwRT2n-HWW4_gq3sB1_n-53" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Set M&lt;sub&gt;i&lt;/sub&gt; free&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="67.5" x="161.25" y="140" as="geometry" />
         </mxCell>
         <mxCell id="8P-cFfvowh9MeFouqDEn-23" edge="1" parent="1" source="8P-cFfvowh9MeFouqDEn-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="8P-cFfvowh9MeFouqDEn-13">
@@ -100,7 +100,7 @@
         <mxCell id="8P-cFfvowh9MeFouqDEn-4" edge="1" parent="1" source="8P-cFfvowh9MeFouqDEn-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="8P-cFfvowh9MeFouqDEn-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8P-cFfvowh9MeFouqDEn-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Set M&lt;sub&gt;i&lt;/sub&gt; busy&lt;/font&gt;" vertex="1">
+        <mxCell id="8P-cFfvowh9MeFouqDEn-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Set M&lt;sub&gt;i&lt;/sub&gt; busy&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="67.5" x="162.19" y="330" as="geometry" />
         </mxCell>
         <mxCell id="8P-cFfvowh9MeFouqDEn-6" edge="1" parent="1" source="8P-cFfvowh9MeFouqDEn-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="8P-cFfvowh9MeFouqDEn-8">
@@ -115,10 +115,10 @@
             <mxPoint x="270" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8P-cFfvowh9MeFouqDEn-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Schedule the departure event of job for M&lt;sub&gt;i&lt;/sub&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="8P-cFfvowh9MeFouqDEn-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Schedule the departure event of job for M&lt;sub&gt;i&lt;/sub&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="67.5" x="162.19" y="450" as="geometry" />
         </mxCell>
-        <mxCell id="8P-cFfvowh9MeFouqDEn-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Return&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;(to event handler in main program)&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="8P-cFfvowh9MeFouqDEn-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Return&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;(to event handler in main program)&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="82.5" x="362.5" y="530" as="geometry" />
         </mxCell>
         <mxCell id="8P-cFfvowh9MeFouqDEn-26" edge="1" parent="1" source="8P-cFfvowh9MeFouqDEn-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="8P-cFfvowh9MeFouqDEn-15">
@@ -147,7 +147,7 @@
             <mxPoint x="404.25" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8P-cFfvowh9MeFouqDEn-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Set M&lt;sub&gt;i+1&lt;/sub&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;&lt;sub&gt;&amp;nbsp;&lt;/sub&gt;busy&lt;/span&gt;" vertex="1">
+        <mxCell id="8P-cFfvowh9MeFouqDEn-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Set M&lt;sub&gt;i+1&lt;/sub&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;&lt;sub&gt;&amp;nbsp;&lt;/sub&gt;busy&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="67.5" x="370" y="320" as="geometry" />
         </mxCell>
         <mxCell id="8P-cFfvowh9MeFouqDEn-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Record start time of job at M&lt;sub&gt;i+1&lt;/sub&gt;&lt;/span&gt;" vertex="1">
@@ -177,7 +177,7 @@
         <mxCell id="8P-cFfvowh9MeFouqDEn-34" edge="1" parent="1" source="8P-cFfvowh9MeFouqDEn-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="8P-cFfvowh9MeFouqDEn-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8P-cFfvowh9MeFouqDEn-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Schedule the departure event of job for M&lt;sub&gt;i+1&lt;/sub&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="8P-cFfvowh9MeFouqDEn-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Schedule the departure event of job for M&lt;sub&gt;i+1&lt;/sub&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="67.5" x="370" y="450" as="geometry" />
         </mxCell>
         <mxCell id="8P-cFfvowh9MeFouqDEn-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Yes" vertex="1">
