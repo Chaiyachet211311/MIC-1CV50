@@ -187,7 +187,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CJ_lh5kqsiaC8S5fGIzF" name="4.1.3_2">
-    <mxGraphModel dx="467" dy="282" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="456" dy="275" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -283,22 +283,22 @@
         <mxCell id="RuR9lgPrgKRc9W_lEYqX-34" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Is i the last station (=60)?&amp;nbsp;&lt;/span&gt;" vertex="1">
           <mxGeometry height="50" width="69.37" x="502.76000000000005" y="170" as="geometry" />
         </mxCell>
-        <mxCell id="RuR9lgPrgKRc9W_lEYqX-35" edge="1" parent="1" source="RuR9lgPrgKRc9W_lEYqX-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="RuR9lgPrgKRc9W_lEYqX-38">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="RuR9lgPrgKRc9W_lEYqX-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;Compute waiting time and gather statistics&lt;/font&gt;" vertex="1">
-          <mxGeometry height="40" width="67.5" x="392.44" y="260" as="geometry" />
-        </mxCell>
-        <mxCell id="RuR9lgPrgKRc9W_lEYqX-37" edge="1" parent="1" source="RuR9lgPrgKRc9W_lEYqX-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;">
+        <mxCell id="RuR9lgPrgKRc9W_lEYqX-35" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="426.19000000000005" y="300" as="sourcePoint" />
+            <mxPoint x="426.19000000000005" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RuR9lgPrgKRc9W_lEYqX-37" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="426.19000000000005" y="360" as="sourcePoint" />
             <mxPoint x="426.19" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RuR9lgPrgKRc9W_lEYqX-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Release job at Mi&lt;/font&gt;" vertex="1">
-          <mxGeometry height="40" width="67.5" x="392.44" y="320" as="geometry" />
-        </mxCell>
-        <mxCell id="RuR9lgPrgKRc9W_lEYqX-44" edge="1" parent="1" source="RuR9lgPrgKRc9W_lEYqX-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.461;entryY=-0.027;entryDx=0;entryDy=0;entryPerimeter=0;" target="RuR9lgPrgKRc9W_lEYqX-36">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="RuR9lgPrgKRc9W_lEYqX-44" edge="1" parent="1" source="RuR9lgPrgKRc9W_lEYqX-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.461;entryY=-0.027;entryDx=0;entryDy=0;entryPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="423.5575" y="258.9200000000001" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="RuR9lgPrgKRc9W_lEYqX-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;yes&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="442.44" y="170" as="geometry" />
@@ -464,6 +464,12 @@
         </mxCell>
         <mxCell id="J0_cgKqba1sSuyp3dRGz-2" edge="1" parent="1" source="RuR9lgPrgKRc9W_lEYqX-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.506;entryY=0.015;entryDx=0;entryDy=0;entryPerimeter=0;" target="RuR9lgPrgKRc9W_lEYqX-34">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ofsMGwsRrzojWBxSqyuJ-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Release job at Mi&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="67.5" x="393.38" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="ofsMGwsRrzojWBxSqyuJ-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;Compute waiting time and gather statistics&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="67.5" x="391.5" y="320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
