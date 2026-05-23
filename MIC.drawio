@@ -187,7 +187,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CJ_lh5kqsiaC8S5fGIzF" name="4.1.3_2">
-    <mxGraphModel dx="467" dy="282" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="718" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -248,6 +248,9 @@
         <mxCell id="RuR9lgPrgKRc9W_lEYqX-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Yes" vertex="1">
           <mxGeometry height="10" width="30" x="113.13" y="430" as="geometry" />
         </mxCell>
+        <mxCell id="-s7mjD94aaAxPWnAf6Gn-2" edge="1" parent="1" source="RuR9lgPrgKRc9W_lEYqX-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-s7mjD94aaAxPWnAf6Gn-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RuR9lgPrgKRc9W_lEYqX-22" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Departure event&lt;/font&gt;" vertex="1">
           <mxGeometry height="50" width="70" x="503.7" y="80" as="geometry" />
         </mxCell>
@@ -277,82 +280,82 @@
         </mxCell>
         <mxCell id="RuR9lgPrgKRc9W_lEYqX-33" edge="1" parent="1" source="RuR9lgPrgKRc9W_lEYqX-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="537.7550000000001" y="240" as="targetPoint" />
+            <mxPoint x="537.7550000000001" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RuR9lgPrgKRc9W_lEYqX-34" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Is i the last station (=60)?&amp;nbsp;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="50" width="69.37" x="502.76000000000005" y="170" as="geometry" />
+          <mxGeometry height="50" width="69.37" x="502.76000000000005" y="220" as="geometry" />
         </mxCell>
         <mxCell id="RuR9lgPrgKRc9W_lEYqX-35" edge="1" parent="1" source="RuR9lgPrgKRc9W_lEYqX-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="RuR9lgPrgKRc9W_lEYqX-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RuR9lgPrgKRc9W_lEYqX-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;Compute waiting time and gather statistics&lt;/font&gt;" vertex="1">
-          <mxGeometry height="40" width="67.5" x="392.44" y="260" as="geometry" />
+          <mxGeometry height="40" width="67.5" x="392.44" y="310" as="geometry" />
         </mxCell>
         <mxCell id="RuR9lgPrgKRc9W_lEYqX-37" edge="1" parent="1" source="RuR9lgPrgKRc9W_lEYqX-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="426.19" y="390" as="targetPoint" />
+            <mxPoint x="426.19" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RuR9lgPrgKRc9W_lEYqX-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Release job at Mi&lt;/font&gt;" vertex="1">
-          <mxGeometry height="40" width="67.5" x="392.44" y="320" as="geometry" />
+          <mxGeometry height="40" width="67.5" x="392.44" y="370" as="geometry" />
         </mxCell>
         <mxCell id="RuR9lgPrgKRc9W_lEYqX-44" edge="1" parent="1" source="RuR9lgPrgKRc9W_lEYqX-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.461;entryY=-0.027;entryDx=0;entryDy=0;entryPerimeter=0;" target="RuR9lgPrgKRc9W_lEYqX-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RuR9lgPrgKRc9W_lEYqX-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;yes&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="442.44" y="170" as="geometry" />
+          <mxGeometry height="30" width="60" x="442.44" y="220" as="geometry" />
         </mxCell>
         <mxCell id="RuR9lgPrgKRc9W_lEYqX-46" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;No&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="522.44" y="210" as="geometry" />
+          <mxGeometry height="30" width="60" x="522.44" y="260" as="geometry" />
         </mxCell>
         <mxCell id="OsCDEP_t-rsWj_aamCxT-12" edge="1" parent="1" source="RuR9lgPrgKRc9W_lEYqX-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="OsCDEP_t-rsWj_aamCxT-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RuR9lgPrgKRc9W_lEYqX-61" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Is Mi-1blocked?&lt;/span&gt;" vertex="1">
-          <mxGeometry height="50" width="69.37" x="390.57" y="390" as="geometry" />
+          <mxGeometry height="50" width="69.37" x="390.57" y="440" as="geometry" />
         </mxCell>
         <mxCell id="RuR9lgPrgKRc9W_lEYqX-63" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.526;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="425.775" y="440" as="sourcePoint" />
-            <mxPoint x="426.59499999999997" y="470.52" as="targetPoint" />
+            <mxPoint x="425.775" y="490" as="sourcePoint" />
+            <mxPoint x="426.59499999999997" y="520.52" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RuR9lgPrgKRc9W_lEYqX-64" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;yes&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="412.44" y="430" as="geometry" />
+          <mxGeometry height="30" width="60" x="412.44" y="480" as="geometry" />
         </mxCell>
         <mxCell id="gtoqwGEHIwMfx1he-anJ-7" edge="1" parent="1" source="gtoqwGEHIwMfx1he-anJ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="gtoqwGEHIwMfx1he-anJ-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gtoqwGEHIwMfx1he-anJ-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Release Mi-1&lt;/font&gt;" vertex="1">
-          <mxGeometry height="40" width="67.5" x="393.38" y="470" as="geometry" />
+          <mxGeometry height="40" width="67.5" x="393.38" y="520" as="geometry" />
         </mxCell>
         <mxCell id="gtoqwGEHIwMfx1he-anJ-8" edge="1" parent="1" source="gtoqwGEHIwMfx1he-anJ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="gtoqwGEHIwMfx1he-anJ-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gtoqwGEHIwMfx1he-anJ-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Seize job to Mi&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="67.5" x="392.45" y="530" as="geometry" />
+          <mxGeometry height="40" width="67.5" x="392.45" y="580" as="geometry" />
         </mxCell>
         <mxCell id="gtoqwGEHIwMfx1he-anJ-9" edge="1" parent="1" source="gtoqwGEHIwMfx1he-anJ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="gtoqwGEHIwMfx1he-anJ-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gtoqwGEHIwMfx1he-anJ-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Set Mi busy&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="67.5" x="393.38" y="590" as="geometry" />
+          <mxGeometry height="40" width="67.5" x="393.38" y="640" as="geometry" />
         </mxCell>
         <mxCell id="gtoqwGEHIwMfx1he-anJ-10" edge="1" parent="1" source="gtoqwGEHIwMfx1he-anJ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="gtoqwGEHIwMfx1he-anJ-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gtoqwGEHIwMfx1he-anJ-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Record startime of job at Mi&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="67.5" x="392.45" y="650" as="geometry" />
+          <mxGeometry height="40" width="67.5" x="392.45" y="700" as="geometry" />
         </mxCell>
         <mxCell id="gtoqwGEHIwMfx1he-anJ-11" edge="1" parent="1" source="gtoqwGEHIwMfx1he-anJ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="gtoqwGEHIwMfx1he-anJ-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gtoqwGEHIwMfx1he-anJ-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Schedule departure event at of job Mi&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="67.5" x="392.45" y="710" as="geometry" />
+          <mxGeometry height="40" width="67.5" x="392.45" y="760" as="geometry" />
         </mxCell>
         <mxCell id="gtoqwGEHIwMfx1he-anJ-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Return&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;(to event handler in main program)&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="82.5" x="384.95" y="770" as="geometry" />
+          <mxGeometry height="60" width="82.5" x="384.95" y="820" as="geometry" />
         </mxCell>
         <mxCell id="gtoqwGEHIwMfx1he-anJ-25" edge="1" parent="1" source="gtoqwGEHIwMfx1he-anJ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="gtoqwGEHIwMfx1he-anJ-13">
           <mxGeometry relative="1" as="geometry" />
@@ -361,31 +364,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gtoqwGEHIwMfx1he-anJ-12" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Is Mi+1 idle?&amp;nbsp;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="50" width="69.37" x="502.44" y="240" as="geometry" />
+          <mxGeometry height="50" width="69.37" x="502.44" y="290" as="geometry" />
         </mxCell>
         <mxCell id="gtoqwGEHIwMfx1he-anJ-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Release job at Mi&lt;/font&gt;" vertex="1">
-          <mxGeometry height="40" width="67.5" x="503.7" y="320" as="geometry" />
+          <mxGeometry height="40" width="67.5" x="503.7" y="370" as="geometry" />
         </mxCell>
         <mxCell id="gtoqwGEHIwMfx1he-anJ-23" edge="1" parent="1" source="gtoqwGEHIwMfx1he-anJ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="gtoqwGEHIwMfx1he-anJ-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gtoqwGEHIwMfx1he-anJ-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Seize job to Mi+1&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="67.5" x="502.44" y="375" as="geometry" />
+          <mxGeometry height="40" width="67.5" x="502.44" y="425" as="geometry" />
         </mxCell>
         <mxCell id="gtoqwGEHIwMfx1he-anJ-22" edge="1" parent="1" source="gtoqwGEHIwMfx1he-anJ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="gtoqwGEHIwMfx1he-anJ-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gtoqwGEHIwMfx1he-anJ-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Set Mi+1 busy&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="67.5" x="503.38" y="430" as="geometry" />
+          <mxGeometry height="40" width="67.5" x="503.38" y="480" as="geometry" />
         </mxCell>
         <mxCell id="gtoqwGEHIwMfx1he-anJ-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Record startime of job at Mi+1&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="67.5" x="502.44" y="490" as="geometry" />
+          <mxGeometry height="40" width="67.5" x="502.44" y="540" as="geometry" />
         </mxCell>
         <mxCell id="OsCDEP_t-rsWj_aamCxT-9" edge="1" parent="1" source="gtoqwGEHIwMfx1he-anJ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="OsCDEP_t-rsWj_aamCxT-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gtoqwGEHIwMfx1he-anJ-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Schedule departure event at of job Mi+1&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="67.5" x="502.44" y="550" as="geometry" />
+          <mxGeometry height="40" width="67.5" x="502.44" y="600" as="geometry" />
         </mxCell>
         <mxCell id="gtoqwGEHIwMfx1he-anJ-21" edge="1" parent="1" source="gtoqwGEHIwMfx1he-anJ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.506;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;" target="gtoqwGEHIwMfx1he-anJ-19">
           <mxGeometry relative="1" as="geometry" />
@@ -394,25 +397,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gtoqwGEHIwMfx1he-anJ-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;yes&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="526.44" y="280" as="geometry" />
+          <mxGeometry height="30" width="60" x="526.44" y="330" as="geometry" />
         </mxCell>
         <mxCell id="OsCDEP_t-rsWj_aamCxT-2" edge="1" parent="1" source="OsCDEP_t-rsWj_aamCxT-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="gtoqwGEHIwMfx1he-anJ-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OsCDEP_t-rsWj_aamCxT-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Set Mi blocked&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="67.5" x="622.44" y="245" as="geometry" />
+          <mxGeometry height="40" width="67.5" x="622.44" y="295" as="geometry" />
         </mxCell>
         <mxCell id="OsCDEP_t-rsWj_aamCxT-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;no&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="562.44" y="240" as="geometry" />
+          <mxGeometry height="30" width="60" x="562.44" y="290" as="geometry" />
         </mxCell>
         <mxCell id="OsCDEP_t-rsWj_aamCxT-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;no&lt;/font&gt;" vertex="1">
-          <mxGeometry height="15" width="40.94" x="352.44" y="397.5" as="geometry" />
+          <mxGeometry height="15" width="40.94" x="352.44" y="447.5" as="geometry" />
         </mxCell>
         <mxCell id="OsCDEP_t-rsWj_aamCxT-10" edge="1" parent="1" source="OsCDEP_t-rsWj_aamCxT-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="RuR9lgPrgKRc9W_lEYqX-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OsCDEP_t-rsWj_aamCxT-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Mi becomes idle&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="67.5" x="502.44" y="610" as="geometry" />
+          <mxGeometry height="40" width="67.5" x="502.44" y="660" as="geometry" />
         </mxCell>
         <mxCell id="OsCDEP_t-rsWj_aamCxT-19" edge="1" parent="1" source="OsCDEP_t-rsWj_aamCxT-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="OsCDEP_t-rsWj_aamCxT-13">
           <mxGeometry relative="1" as="geometry" />
@@ -421,49 +424,52 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OsCDEP_t-rsWj_aamCxT-11" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;is i==0 and Qprep non-empty?&lt;/font&gt;" vertex="1">
-          <mxGeometry height="60" width="80" x="282.44" y="460" as="geometry" />
+          <mxGeometry height="60" width="80" x="282.44" y="510" as="geometry" />
         </mxCell>
         <mxCell id="OsCDEP_t-rsWj_aamCxT-20" edge="1" parent="1" source="OsCDEP_t-rsWj_aamCxT-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="OsCDEP_t-rsWj_aamCxT-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OsCDEP_t-rsWj_aamCxT-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Apply dispatch rule to pick job&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="67.5" x="287.44" y="545" as="geometry" />
+          <mxGeometry height="40" width="67.5" x="287.44" y="595" as="geometry" />
         </mxCell>
         <mxCell id="OsCDEP_t-rsWj_aamCxT-21" edge="1" parent="1" source="OsCDEP_t-rsWj_aamCxT-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="OsCDEP_t-rsWj_aamCxT-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OsCDEP_t-rsWj_aamCxT-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Get job out of preparation queue&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="67.5" x="287.44" y="615" as="geometry" />
+          <mxGeometry height="40" width="67.5" x="287.44" y="665" as="geometry" />
         </mxCell>
         <mxCell id="OsCDEP_t-rsWj_aamCxT-15" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Return&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;(to event handler in main program)&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="82.5" x="279.94" y="865" as="geometry" />
+          <mxGeometry height="60" width="82.5" x="279.94" y="915" as="geometry" />
         </mxCell>
         <mxCell id="OsCDEP_t-rsWj_aamCxT-22" edge="1" parent="1" source="OsCDEP_t-rsWj_aamCxT-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="OsCDEP_t-rsWj_aamCxT-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OsCDEP_t-rsWj_aamCxT-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Set M1 Busy&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="67.5" x="287.44" y="685" as="geometry" />
+          <mxGeometry height="40" width="67.5" x="287.44" y="735" as="geometry" />
         </mxCell>
         <mxCell id="OsCDEP_t-rsWj_aamCxT-23" edge="1" parent="1" source="OsCDEP_t-rsWj_aamCxT-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="OsCDEP_t-rsWj_aamCxT-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OsCDEP_t-rsWj_aamCxT-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Record start time of job at M1&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="67.5" x="287.44" y="745" as="geometry" />
+          <mxGeometry height="40" width="67.5" x="287.44" y="795" as="geometry" />
         </mxCell>
         <mxCell id="OsCDEP_t-rsWj_aamCxT-24" edge="1" parent="1" source="OsCDEP_t-rsWj_aamCxT-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="OsCDEP_t-rsWj_aamCxT-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OsCDEP_t-rsWj_aamCxT-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Schedule the departure event of job for M1&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="67.5" x="287.44" y="805" as="geometry" />
+          <mxGeometry height="40" width="67.5" x="287.44" y="855" as="geometry" />
         </mxCell>
         <mxCell id="OsCDEP_t-rsWj_aamCxT-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="yes" vertex="1">
-          <mxGeometry height="10" width="32.51" x="322.43" y="520" as="geometry" />
+          <mxGeometry height="10" width="32.51" x="322.43" y="570" as="geometry" />
         </mxCell>
         <mxCell id="yfLQuIQgH557NnuuYPnz-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="no" vertex="1">
-          <mxGeometry height="30" width="60" x="230" y="500" as="geometry" />
+          <mxGeometry height="30" width="60" x="230" y="550" as="geometry" />
         </mxCell>
-        <mxCell id="J0_cgKqba1sSuyp3dRGz-2" edge="1" parent="1" source="RuR9lgPrgKRc9W_lEYqX-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.506;entryY=0.015;entryDx=0;entryDy=0;entryPerimeter=0;" target="RuR9lgPrgKRc9W_lEYqX-34">
+        <mxCell id="-s7mjD94aaAxPWnAf6Gn-3" edge="1" parent="1" source="-s7mjD94aaAxPWnAf6Gn-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="RuR9lgPrgKRc9W_lEYqX-34">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-s7mjD94aaAxPWnAf6Gn-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 6px;&quot;&gt;Record endtime of Mi&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="67.5" x="504.95" y="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
