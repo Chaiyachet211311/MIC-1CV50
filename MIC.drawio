@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="2">
   <diagram name="4.1.1" id="3XRf-dJSQAdIzkqx4YIx">
-    <mxGraphModel dx="758" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="692" dy="417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -109,12 +109,6 @@
         <mxCell id="8P-cFfvowh9MeFouqDEn-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Record start time of job at M&lt;sub&gt;i&lt;/sub&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="67.5" x="162.19" y="390" as="geometry" />
         </mxCell>
-        <mxCell id="8P-cFfvowh9MeFouqDEn-25" edge="1" parent="1" source="8P-cFfvowh9MeFouqDEn-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="249.68999999999994" y="480" as="sourcePoint" />
-            <mxPoint x="270" y="220" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="8P-cFfvowh9MeFouqDEn-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Schedule the departure event of job for M&lt;sub&gt;i&lt;/sub&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="67.5" x="162.19" y="450" as="geometry" />
         </mxCell>
@@ -190,6 +184,16 @@
         </mxCell>
         <mxCell id="h5ILln14iWS_tttBcRbu-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Record the flow time&amp;nbsp;&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="67.5" x="302.5" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="h5ILln14iWS_tttBcRbu-11" edge="1" parent="1" source="8P-cFfvowh9MeFouqDEn-8" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="196" y="520" />
+              <mxPoint x="250" y="520" />
+            </Array>
+            <mxPoint x="200" y="525" as="sourcePoint" />
+            <mxPoint x="250" y="220" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
